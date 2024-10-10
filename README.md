@@ -7,16 +7,13 @@ The Heart Disease Prediction project leverages machine learning techniques to pr
 # Objectives:
 
 Predictive Modeling: Utilize machine learning algorithms to classify individuals as at risk or not at risk for heart disease.
-
 Data Analysis: Analyze key factors contributing to heart disease, such as age, cholesterol levels, blood pressure, and lifestyle habits.
 User-Friendly Interface: Provide an accessible interface for users to input their health data and receive predictions.
 
 # Key Features:
 
 Data Preprocessing: Cleaning and preparing the dataset for analysis, including handling missing values and feature scaling.
-
 Model Selection: Experimentation with various machine learning algorithms (e.g., Logistic Regression, Decision Trees, Random Forest, Support Vector Machines) to identify the most effective model.
-
 Model Evaluation: Use metrics like accuracy, precision, recall, and F1-score to assess model performance and ensure reliability.
 Visualization: Implement data visualizations to illustrate correlations and insights from the dataset.
 
